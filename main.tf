@@ -21,6 +21,6 @@ provider "helm" {
 
 module "prometheus-grafana" {
 
-  source = "https://github.com/saiprakash07/prometheus-grafana.git"
+  source = "https://github.com/saiprakash07/prometheus-grafana"
 
 }
